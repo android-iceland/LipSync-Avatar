@@ -5,6 +5,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/android-iceland/LipSync-Avatar/blob/main/LipSync_Avatar.ipynb)
 
+
+![](https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample.gif)
+
+
+
+
 # Credit 
 Lip synchronization [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 <br>
