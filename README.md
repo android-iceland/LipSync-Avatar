@@ -2,8 +2,9 @@
 
 
 <img src="https://raw.githubusercontent.com/android-iceland/LipSync-Avatar/main/LipSync-Avatar.png" width="800">
+<br>
 
-# Click on this button to run on Google Colab
+## Click on this button to run on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/android-iceland/LipSync-Avatar/blob/main/LipSync_Avatar.ipynb)
 
 
