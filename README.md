@@ -7,6 +7,9 @@
 
 
 # Demo <br>
+## Input form 
+![](https://github.com/android-iceland/LipSync-Avatar/blob/main/form.png)
+## Result
 ![](https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample.gif)
 
 
