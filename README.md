@@ -13,9 +13,25 @@
 
  [![Watch the video](https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample.gif)](https://www.youtube.com/watch?v=w8Qwrh8t0n4)
 
+#### Use green screen effect to use  the AI Avatar in your videos. 
 
-# Credit 
-Lip synchronization [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
-<br>
-Face upscaling [GFPGAN](https://github.com/TencentARC/GFPGAN)
+
+
+
+
+
+
+```bibtex
+@credit{Thanks to,
+  Wav2Lip = {https://github.com/Rudrabha/Wav2Lip},
+  GFPGAN  = {https://github.com/TencentARC/GFPGAN},
+}
+```
+
+```bibtex
+@author{android-iceland,
+  Wav2Lip = {for lip synchronization},
+  GFPGAN  = {for face upscaling},
+}
+```
 
