@@ -16,9 +16,13 @@
  [![Watch the video](https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample.gif)](https://www.youtube.com/watch?v=w8Qwrh8t0n4)
 
 #### Use green screen effect to use  the AI Avatar in your videos. 
+### Input form 
+![](https://github.com/android-iceland/LipSync-Avatar/blob/main/form2.png)
 
+### Result (click on the video)
+[![Watch the video](https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample1.gif)](https://www.youtube.com/watch?v=nlYIeaM8Cug)
 
-
+#### Use green screen effect to use  the AI Avatar in your videos. 
 
 
 
