@@ -13,8 +13,7 @@
 ![](https://github.com/android-iceland/LipSync-Avatar/blob/main/form.png)
 ### Result (click on the video)
 
-<video src="https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample.mp4" controls></video>
-
+<!-- <video src="https://github.com/android-iceland/LipSync-Avatar/blob/main/video/sample.mp4" controls></video> -->
 
 
 
