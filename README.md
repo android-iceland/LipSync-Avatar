@@ -29,6 +29,23 @@
 #### Use green screen effect to use  the AI Avatar in your videos. 
 
 
+### How to use your own video to generate ai avatar video
+1. add your video in the folder called `videos` 
+  for example you uploaded a video called `own.mp4` 
+  
+2. below this cell 'Fill the upscale checkbox to upscale your video'
+ on line no  2
+ ```
+ select_avatar = "alisa" #@param ["alisa", "jenny", "anna"] {allow-input: true}
+ ```
+ update the select_avatar with your file name without the file extension
+ ```
+ select_avatar = "own" #@param ["own","alisa", "jenny", "anna"] {allow-input: true}
+ ```
+3. now you are good to go with your own video
+
+
+
 
 
 ```bibtex
@@ -44,4 +61,5 @@
   GFPGAN  = {for face upscaling},
 }
 ```
+
 
